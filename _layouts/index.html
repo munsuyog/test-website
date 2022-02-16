@@ -19,11 +19,10 @@
 
   <body>
       {% include navbar.html %}
-      <div class="container">
+    <div class="container">
     <div class="wrapper">
       <header>
           <img  src="/images/inet-logo.png" style="width:150px; border-radius: 10%;" alt="Logo"/> <br>
-          <!-- <h2>Vamsi Addanki</h2> -->
           <h3>Intelligent Networks</h3>
           TU Berlin,<br>
           FG INET/ EN 18,<br>
@@ -37,6 +36,9 @@
       <section>
       {{ content }}
       </section>
+      <header style="padding-left: 50px; float: right;">
+      {% include twitter-timeline.html %}
+      </header>
       {% include footer.html %}
     </div>
   </div>

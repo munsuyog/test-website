@@ -1,5 +1,5 @@
-cp -r _site/* ./_git_dir
-cd ./_git_dir
+cp -r _site/* ./docs/
+cd ./docs/
 git add .
 git commit -am "auto commit"
-git push origin master
+git push -f origin master

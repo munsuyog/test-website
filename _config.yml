@@ -55,3 +55,22 @@ scholar:
   details_link:   Details
 
   query: "@*"
+
+  # Sections on the "people" page.
+roles:
+  - key: faculty
+    name: Faculty
+  - key: staff
+    name: Staff
+  - key: postdoc
+    name: Researchers
+  - key: grad
+    name: Graduate Students
+  - key: ugrad
+    name: Undergraduate Students
+  - key: ugrad-alum
+    name: Past Undergraduate Students
+  - key: collab
+    name: Collaborators
+  - key: alum
+    name: Alumni
