@@ -95,40 +95,40 @@ Supervisors: {{entry.supervisors}}
 
 <br>
 {% if entry.paper %}
-<img src="/images/icons/file-earmark-pdf.svg" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.paper}}">Paper</a> 
+<img src="images/icons/file-earmark-pdf.svg" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.paper}}">Paper</a> 
 {% endif %}
 
 {% if entry.slides %}
-<img src="/images/icons/file-earmark-slides.svg" fill="#000" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.slides}}">Slides</a> 
+<img src="images/icons/file-earmark-slides.svg" fill="#000" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.slides}}">Slides</a> 
 {% endif %}
 
 {% if entry.poster %}
-<img src="/images/icons/file-earmark-pdf.svg" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.poster}}">Poster</a> 
+<img src="images/icons/file-earmark-pdf.svg" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.poster}}">Poster</a> 
 {% endif %}
 
 {% if entry.video %}
-<img src="/images/icons/camera-reels.svg" fill="#000" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.video}}">Demo</a> 
+<img src="images/icons/camera-reels.svg" fill="#000" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.video}}">Demo</a> 
 {% endif %}
 
 {% if entry.videocontd %}
-<img src="/images/icons/camera-reels.svg" fill="#000" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.videocontd}}">Demo-contd.</a> 
+<img src="images/icons/camera-reels.svg" fill="#000" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.videocontd}}">Demo-contd.</a> 
 {% endif %}
 
 {% if entry.code %}
-<img src="/images/icons/github.svg" fill="#000" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.code}}">Code</a> 
+<img src="images/icons/github.svg" fill="#000" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.code}}">Code</a> 
 {% endif %}
 
 {% if entry.website %}
-<img src="/images/icons/camera-reels.svg" fill="#000" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.website}}">Website</a> 
+<img src="images/icons/camera-reels.svg" fill="#000" alt="Bootstrap" width="20" height="20" /> <a href="{{entry.website}}">Website</a> 
 {% endif %}
 
 
 {% if entry.abstract %}
-<img src="/images/icons/chat-square-text.svg" fill="#000" alt="Bootstrap" width="20" height="20" />
+<img src="images/icons/chat-square-text.svg" fill="#000" alt="Bootstrap" width="20" height="20" />
 <a data-bs-toggle="collapse" href="#abstract{{ entry.key }}">
     Abstract
 </a>
-<img src="/images/icons/book.svg" fill="#000" alt="Bootstrap" width="20" height="20" /><a data-bs-toggle="collapse" href="#bibtex{{ entry.key }}">
+<img src="images/icons/book.svg" fill="#000" alt="Bootstrap" width="20" height="20" /><a data-bs-toggle="collapse" href="#bibtex{{ entry.key }}">
     BibTeX
 </a>
 <div class="collapse" id="abstract{{ entry.key }}">
@@ -148,7 +148,7 @@ Supervisors: {{entry.supervisors}}
 {% endif %}
 
 {% unless entry.abstract %}
-<img src="/images/icons/book.svg" fill="#000" alt="Bootstrap" width="20" height="20" /><a data-bs-toggle="collapse" href="#bibtex{{ entry.key }}">
+<img src="images/icons/book.svg" fill="#000" alt="Bootstrap" width="20" height="20" /><a data-bs-toggle="collapse" href="#bibtex{{ entry.key }}">
     BibTeX
 </a>
 <div class="collapse" id="bibtex{{ entry.key }}">

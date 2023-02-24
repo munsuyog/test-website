@@ -31,26 +31,26 @@ layout: default
       <i>{{ member.info }}</i>
       {%- if member.email -%}
         <a href="mailto:{{ member.email }}" onclick="return false;">
-          <img src="/images/icons/envelope.svg" alt="Bootstrap" width="20" height="20"> {{ member.email }}
+          <img src="images/icons/envelope.svg" alt="Bootstrap" width="20" height="20"> {{ member.email }}
         </a>
       {% endif %}
       {%- if member.phone -%}
         <a href="tel:{{ member.phone }}" onclick="return false;">
-          <img src="/images/icons/telephone.svg" alt="Bootstrap" width="20" height="20"> {{ member.phone }}
+          <img src="images/icons/telephone.svg" alt="Bootstrap" width="20" height="20"> {{ member.phone }}
         </a>
       {% endif %}
       <div class="column">
         {% if member.website %}
-        <a href="{{ member.website }}" target="_blank"><img src="/images/icons/globe.svg" alt="Bootstrap" width="20" height="20" /></a>
+        <a href="{{ member.website }}" target="_blank"><img src="images/icons/globe.svg" alt="Bootstrap" width="20" height="20" /></a>
         {% endif %}
         {% if member.scholar %}
         <a href="{{ member.scholar }}" target="_blank">
-            <img src="/images/googlescholar.png" alt="Bootstrap" width="20" height="20" />
+            <img src="images/googlescholar.png" alt="Bootstrap" width="20" height="20" />
         </a>
         {% endif %}
         {% if member.github %}
         <a href="{{ member.github }}" target="_blank">
-            <img src="/images/github.png" alt="Bootstrap" width="20" height="20" />
+            <img src="images/github.png" alt="Bootstrap" width="20" height="20" />
         </a>
         {% endif %}
       </div>
@@ -75,7 +75,7 @@ layout: default
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
   <ul style="overflow: hidden">
