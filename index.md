@@ -7,7 +7,7 @@ title: "INET"
 
 <div class="row mb-4">
   <div class="col-12">
-    <img src="images/new-banner.jpg" class="img-fluid w-100">
+    <img src="images/neu-banner.jpg" class="img-fluid w-100">
     <div><small>Members of FG INET (April 2015)</small></div>
     <div class="copyright">©&nbsp;Fabian Schneider / Philipp S. Schmidt</div>
   </div>
