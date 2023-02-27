@@ -15,20 +15,18 @@ title: Contact
     <div style="border-left: 5px solid #6F0101; padding-left: 10px;">
       <p>
         TU Berlin<br/>
-        FG INET, MAR 4-4<br/>
-        ggfs. Name des Empfangers<br/>
-        MarchstraBe 23<br/>
-        10587 Berlin<br/>
+        FG INET/ EN 18,<br/>
+        Einsteinufer 17<br/>
+        10587 Berlin,<br/>
         Deutschland<br/>
-      </p>
-    </div>
-    <p>Sie erreichen uns naturlich auch uber unser Sekretariat:</p>
-    <div style="border-left: 5px solid #6F0101; padding-left: 10px;">
-      <p>
-        Tel.: (030) 314-75170<br/>
-        Fax: (030) 314-78550<br/>
+        Phone: +49 30 314 75170,<br/>
+        Fax: +49 30 314 78550<br/>
         E-Mail: secretary@inet<br/>
       </p>
     </div>
+    
+    
+        
+     
   </div>
 </div>
