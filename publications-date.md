@@ -9,6 +9,7 @@ Grouped by type: [here](publications-type) ; Grouped by date: [here](publication
 
 {% for item in site.data.bibdata.years %}
 ## {{item.name}}
+
 {: reversed="reversed"}
 {% endfor %}
 
