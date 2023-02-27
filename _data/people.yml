@@ -79,20 +79,7 @@
   email: habib@inet
 
 - name: Anjuman Ara Bithi
-  role: Student Assistants
-  photo: /images/members/anju.jpeg
+  role: studentassistants
+  photo: /images/members/anju.png
   email: a.bithi@tub
 
-- name: Sarah Dierenfeld
-  role: sysadmin
-  photo: /images/members/noimage.png
-  info: System Administrator
-  email: sarah@inet
-  phone: +49 30 314 75171, 75734
-
-- name: Rainer May
-  role: sysadmin
-  photo: /images/members/noimage.png
-  info: System Administrator
-  email: "rainer@inet, admins@inet"
-  phone: +49 30 314 75171
