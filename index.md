@@ -9,9 +9,8 @@ title: "INET"
   <div class="col-12">
     <img src="images/neu-banner.jpg" class="img-fluid w-100">
     <div><small>Members of FG INET (February 2023)</small></div>
-<<<<<<< HEAD
     <div class="copyright">©&nbsp;Christian Kielmann</div>
-=======
+
    
   </div>
 </div>
