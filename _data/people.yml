@@ -74,7 +74,7 @@
 
 - name: Habib Mostafaei
   role: researchteaching
-  photo: /images/members/noimage.png
+  photo: images/members/noimage.png
   info: Postdoc
   email: habib@inet.tu-berlin.de
 
@@ -85,7 +85,7 @@
 
 - name: Qingyun Ji 
   role: studentassistants
-  photo: images/members/Noimage.png
+  photo: images/members/noimage.png
   email: qingyun.ji@campus.tu-berlin.de
 
 - name: Peter Bangert 
