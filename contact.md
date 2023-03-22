@@ -21,7 +21,7 @@ title: Contact
         Deutschland<br/>
         Phone: +49 30 314 75170,<br/>
         Fax: +49 30 314 78550<br/>
-        E-Mail: secretary@inet<br/>
+        E-Mail: secretary@inet.tu-berlin.de<br/>
       </p>
     </div>
     

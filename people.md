@@ -18,7 +18,7 @@ layout: default
   {% for member in site.data.people %}
   {% if member.role == item.role %}
   <div class="col-sm-6" style="padding-bottom: 2%;">
-    <!-- <img src="{{ member.photo }}" style="float: left; max-width: 150px; max-height: 120px; height: auto; width: auto; border-radius: 15%;" />  -->
+    <img src="{{ member.photo }}" style="float: left; max-width: 150px; max-height: 120px; height: auto; width: auto; border-radius: 15%;" /> 
     <!-- <div class="col-sm-4" style="padding-bottom: 2%;"> -->
     <div class="row">
       <strong>
