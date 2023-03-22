@@ -10,8 +10,6 @@ title: "INET"
     <img src="images/neu-banner.jpg" class="img-fluid w-100">
     <div><small>Members of FG INET (February 2023)</small></div>
     <div class="copyright">©&nbsp;Christian Kielmann</div>
-
-   
   </div>
 </div>
 <div class="row mb-4">
@@ -50,7 +48,7 @@ title: "INET"
           <a href="teaching0/"><em>Teaching at FG INET</em>Teaching</a>
         </h5>
         <ul>
-          <li><a href="teaching0/ws2020211/">Courses</a></li>
+          <li><a href="teaching0/ws2020211/">Current term</a></li>
           <li><a href="teaching0/infoteaching/">General information</a></li>
           <li><a href="teaching0/infoteaching/faq0/">FAQ</a></li>
         </ul>
@@ -62,7 +60,7 @@ title: "INET"
           <a href="people/"><em>People at FG INET</em>People</a>
         </h5>
         <ul>
-          <li><a href="people/profs0/anja/">Stefan Schmid</a></li>
+          <li><a href="people/profs0/anja/">Anja Feldmann</a></li>
         </ul>
       </div>
       <div class="col-6">
