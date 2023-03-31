@@ -2,7 +2,7 @@
   role: head
   photo: images/members/stefan.jpg
   info: Professor
-  email: stefan.schmid@tu-berlin.de
+  email: stefan.schmid [at] tu-berlin [dot] de
   phone: "+49 30 314 75169"
   scholar: https://scholar.google.com/citations?hl=en&user=o3Mh4FwAAAAJ
   website: https://www.univie.ac.at/ct/stefan/
@@ -12,14 +12,14 @@
   role: admin
   photo: images/members/noimage.png
   info: Secretary
-  email: birgit@inet.tu-berlin.de
+  email: birgit [at] inet [dot] tu-berlin [dot] de
   phone: +49 30 314 75170
 
 - name: Vamsi Addanki
   role: researchteaching
   photo: images/members/vamsi.jpeg
   info: PhD Student
-  email: vamsi@inet.tu-berlin.de
+  email: vamsi[at] inet [dot] tu-berlin [dot] de
   github: https://github.com/vamsiDT
   scholar: https://scholar.google.com/citations?user=aWDx0zUAAAAJ&hl=en
   website: https://www.vamsiaddanki.net/
@@ -29,7 +29,7 @@
   role: researchteaching
   photo: images/members/arash.png
   info: PhD Student
-  email: pourdamghani@tu-berlin.de
+  email: pourdamghani[at] tu-berlin [dot] de
   github: https://github.com/pourdamghani
   scholar: https://scholar.google.com/citations?hl=en&user=jsHuvKEAAAAJ
   website: https://pourdamghani.github.io/
@@ -39,7 +39,7 @@
   role: researchteaching
   photo: images/members/maciej.jpeg
   info: Postdoc
-  email: maciej@inet.tu-berlin.de
+  email: maciej[at] inet [dot] tu-berlin [dot] de
   github: https://github.com/foo
   scholar: https://scholar.google.pl/citations?user=KE9MLF8AAAAJ&hl=en
   website: https://maciejpacut.github.io/
@@ -49,14 +49,14 @@
   role: researchteaching
   photo: images/members/Volker.png
   info: Postdoc
-  email: vstocker@inet.tu-berlin.de
+  email: vstocker[at] inet [dot] tu-berlin [dot] de
   link: https://volkerstocker.net/
 
 - name: Darya Melnyk
   role: researchteaching
   photo: images/members/dariya.jpeg
   info: Postdoc
-  email: melnyk@tu-berlin.de
+  email: melnyk[at] tu-berlin [dot] de
   scholar: https://scholar.google.com/citations?user=i88PJrIAAAAJ&hl=en
   link: https://darya-melnyk.github.io/
 
@@ -64,19 +64,7 @@
   role: researchteaching
   photo: images/members/noimage.png
   info: PhD Student
-  email: taha.albakour@inet.tu-berlin.de
-
-- name: Susanna Schwarzmann
-  role: researchteaching
-  photo: images/members/noimage.png
-  info: PhD Student
-  email: susanna@inet.tu-berlin.de
-
-- name: Habib Mostafaei
-  role: researchteaching
-  photo: images/members/noimage.png
-  info: Postdoc
-  email: habib@inet.tu-berlin.de
+  email: taha.albakour[at] inet [dot] tu-berlin [dot] de
 
 - name: Anjuman Ara Bithi
   role: studentassistants
