@@ -69,21 +69,16 @@
 - name: Anjuman Ara Bithi
   role: studentassistants
   photo: images/members/anju.png
-  email: a.bithi@tu-berlin.de
+  email: a.bithi[at] tu-berlin [dot] de
 
 - name: Qingyun Ji 
   role: studentassistants
   photo: images/members/noimage.png
-  email: qingyun.ji@campus.tu-berlin.de
-
-- name: Peter Bangert 
-  role: studentassistants
-  photo: images/members/noimage.png
-  email: pbangert@inet.tu-berlin.de
+  email: qingyun.ji[at]campus[dot]tu-berlin[dot]de
 
 - name: Robert Sama 
   role: studentassistants
   photo: images/members/noimage.png
-  email: robert.sama@univie.ac.at
+  email: robert.sama[at]univie[dot]ac[dot]at
 
 
